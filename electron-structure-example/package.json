@@ -1,0 +1,32 @@
+{
+    "name": "appname",
+    "description": "appname - v1.0.0",
+    "version": "1.0.0",
+    "author": "Author <email>",
+    "main": "main.js",
+    "private": true,
+    "scripts": {
+        "postinstall": "install-app-deps",
+        "start": "electron ./app --enable-logging",
+        "startDev": "electron ./ --enable-logging",
+        "dev": "NODE_ENV='development' npm run startDev",
+        "dist": "build --x64"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "auto-launch": "^5.0.1",
+        "electron": "^1.4.3",
+        "electron-builder": "^7.11.2",
+        "electron-packager": "^8.1.0"
+    },
+    "build": {
+        "appId": "dviti.webmail",
+        "app-category-type": "company.group.appname",
+        "win": {
+            "iconUrl": "ICONURL"
+        }
+    },
+    "dependencies": {
+        "auto-launch": "^5.0.1"
+    }
+}

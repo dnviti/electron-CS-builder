@@ -1,0 +1,10 @@
+{
+    "name": "appname",
+    "description": "appname - v1.0.0",
+    "version": "1.0.0",
+    "author": "Author <email>",
+    "main": "main.js",
+    "dependencies": {
+        "auto-launch": "^5.0.1"
+    }
+}
