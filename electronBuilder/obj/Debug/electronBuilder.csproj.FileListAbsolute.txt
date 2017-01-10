@@ -16,3 +16,6 @@ C:\Users\daniele.viti\Desktop\testFileSystem\electronBuilderSRC\electronBuilder\
 C:\Users\daniele.viti\Desktop\testFileSystem\electronBuilderSRC\electronBuilder\electronBuilder\bin\Debug\electronBuilder.exe
 C:\Users\daniele.viti\Desktop\testFileSystem\electronBuilderSRC\electronBuilder\electronBuilder\bin\Debug\electronBuilder.pdb
 C:\Users\daniele.viti\Desktop\testFileSystem\electronBuilderSRC\electronBuilder\electronBuilder\obj\Debug\electronBuilder.csprojResolveAssemblyReference.cache
+Z:\Repository Software\Softwares Aziendali\ElectronBuilder\electronBuilder\bin\Debug\electronBuilder.exe.config
+Z:\Repository Software\Softwares Aziendali\ElectronBuilder\electronBuilder\obj\Debug\electronBuilder.exe
+Z:\Repository Software\Softwares Aziendali\ElectronBuilder\electronBuilder\obj\Debug\electronBuilder.pdb
