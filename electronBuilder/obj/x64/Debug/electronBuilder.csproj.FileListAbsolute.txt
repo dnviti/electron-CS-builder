@@ -1,0 +1,5 @@
+C:\Users\daniele.viti\Desktop\electronBuilder\electronBuilder\electronBuilder\bin\x64\Debug\electronBuilder.exe.config
+C:\Users\daniele.viti\Desktop\electronBuilder\electronBuilder\electronBuilder\bin\x64\Debug\electronBuilder.exe
+C:\Users\daniele.viti\Desktop\electronBuilder\electronBuilder\electronBuilder\bin\x64\Debug\electronBuilder.pdb
+C:\Users\daniele.viti\Desktop\electronBuilder\electronBuilder\electronBuilder\obj\x64\Debug\electronBuilder.exe
+C:\Users\daniele.viti\Desktop\electronBuilder\electronBuilder\electronBuilder\obj\x64\Debug\electronBuilder.pdb

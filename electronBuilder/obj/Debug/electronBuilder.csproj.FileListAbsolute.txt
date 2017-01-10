@@ -1,0 +1,18 @@
+C:\Users\daniele.viti\Desktop\electronBuilder\electronBuilder\electronBuilder\bin\Debug\electronBuilder.exe.config
+C:\Users\daniele.viti\Desktop\electronBuilder\electronBuilder\electronBuilder\bin\Debug\electronBuilder.exe
+C:\Users\daniele.viti\Desktop\electronBuilder\electronBuilder\electronBuilder\bin\Debug\electronBuilder.pdb
+C:\Users\daniele.viti\Desktop\electronBuilder\electronBuilder\electronBuilder\obj\Debug\electronBuilder.csprojResolveAssemblyReference.cache
+C:\Users\daniele.viti\Desktop\electronBuilder\electronBuilder\electronBuilder\obj\Debug\electronBuilder.exe
+C:\Users\daniele.viti\Desktop\electronBuilder\electronBuilder\electronBuilder\obj\Debug\electronBuilder.pdb
+C:\Users\daniele.viti\Desktop\New folder\electronBuilderSRC\electronBuilder\electronBuilder\bin\Debug\electronBuilder.exe.config
+C:\Users\daniele.viti\Desktop\New folder\electronBuilderSRC\electronBuilder\electronBuilder\obj\Debug\electronBuilder.exe
+C:\Users\daniele.viti\Desktop\New folder\electronBuilderSRC\electronBuilder\electronBuilder\obj\Debug\electronBuilder.pdb
+C:\Users\daniele.viti\Desktop\New folder\electronBuilderSRC\electronBuilder\electronBuilder\bin\Debug\electronBuilder.exe
+C:\Users\daniele.viti\Desktop\New folder\electronBuilderSRC\electronBuilder\electronBuilder\bin\Debug\electronBuilder.pdb
+C:\Users\daniele.viti\Desktop\New folder\electronBuilderSRC\electronBuilder\electronBuilder\obj\Debug\electronBuilder.csprojResolveAssemblyReference.cache
+C:\Users\daniele.viti\Desktop\testFileSystem\electronBuilderSRC\electronBuilder\electronBuilder\bin\Debug\electronBuilder.exe.config
+C:\Users\daniele.viti\Desktop\testFileSystem\electronBuilderSRC\electronBuilder\electronBuilder\obj\Debug\electronBuilder.exe
+C:\Users\daniele.viti\Desktop\testFileSystem\electronBuilderSRC\electronBuilder\electronBuilder\obj\Debug\electronBuilder.pdb
+C:\Users\daniele.viti\Desktop\testFileSystem\electronBuilderSRC\electronBuilder\electronBuilder\bin\Debug\electronBuilder.exe
+C:\Users\daniele.viti\Desktop\testFileSystem\electronBuilderSRC\electronBuilder\electronBuilder\bin\Debug\electronBuilder.pdb
+C:\Users\daniele.viti\Desktop\testFileSystem\electronBuilderSRC\electronBuilder\electronBuilder\obj\Debug\electronBuilder.csprojResolveAssemblyReference.cache
